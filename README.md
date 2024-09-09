@@ -66,3 +66,6 @@ Feel free to reach out if you'd like to collaborate, share ideas, or have any qu
 ---
 
 Thanks for visiting! 🚀
+
+
+![VASCO DA GAMA](https://lncimg.lance.com.br/cdn-cgi/image/width=1080,quality=75,fit=pad,format=webp/uploads/2024/01/53204766320_d74b043c16_o-aspect-ratio-512-320.jpg)
