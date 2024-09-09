@@ -1,46 +1,68 @@
-# Olá, eu sou Johnatan / Hello, I'm Johnatan / Привет, я Джонатан!
+# Olá, sou Johnatan 🇧🇷 / Hello, I'm Johnatan 🇺🇸 / Привет, я Джонатан! 🇷🇺
 
-Welcome to my GitHub repository! I'm a **Mobile Developer** with a focus on **Flutter**, but I also have experience in both **back-end** and **front-end** development.
+👋 **Welcome to my GitHub repository!**  
+I'm a **Mobile Developer** focused on **Flutter**, with experience in both **back-end** and **front-end** development. I love technology, app development, and I'm always looking to learn more!
 
-## About Me
-- **University**: I'm currently studying Computer Science at **UEPB** (Universidade Estadual da Paraíba).
-- **Job**: I work at **STTP** as a **Junior Mobile Developer**.
+---
 
-## Stacks
+## 🧑‍💻 About Me
 
-- Frameworks
+- 🎓 **University**: Currently studying Computer Science at **UEPB** (Universidade Estadual da Paraíba).
+- 💼 **Job**: I work as a **Junior Mobile Developer** at **STTP**.
 
-    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-- Programming Languages
+## 🚀 Stacks
 
-    ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🔧 **Frameworks**
 
-- Markup Languages
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 **Programming Languages**
 
-- Databases
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+### 🖼️ **Markup Languages**
 
-- Mobile Platforms
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+### 🗄️ **Databases**
 
-- Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📱 **Mobile Platforms**
 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=johndriguess&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## Social Media
+### 🔧 **Tools**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnrodriguess/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@johndriguess/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/johnrodriguess_) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnrodriguess_/)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
-## Contact Me
-Feel free to reach out if you'd like to collaborate, share ideas, or have any questions about my projects! You can contact me at [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:johndriguess@gmail.com).
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=johndriguess&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+---
+
+## 🌐 Social Media
+
+Let's connect! 😄
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnrodriguess/) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@johndriguess/) 
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/johnrodriguess_) 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnrodriguess_/)
+
+---
+
+## ✉️ Contact Me
+
+Feel free to reach out if you'd like to collaborate, share ideas, or have any questions about my projects!
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:johndriguess@gmail.com)
+
+---
 
 Thanks for visiting! 🚀
-
