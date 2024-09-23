@@ -42,7 +42,7 @@ I'm a **Mobile Developer** focused on **Flutter**, with experience in both **bac
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johndriguess&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=johndriguess&theme=dark-minimalist&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
